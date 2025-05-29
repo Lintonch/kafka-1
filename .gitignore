@@ -1,0 +1,21 @@
+# Java
+*.class
+
+# Maven
+/target
+!.mvn/wrapper/maven-wrapper.jar
+**/logs/
+*.log
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+
+# Environment
+.env
+
