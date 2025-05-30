@@ -22,6 +22,8 @@ public class User {
 	
 	private String name;
 	
-	private String ph;
+	private String email;
+	
+	private String phone;
 
 }
